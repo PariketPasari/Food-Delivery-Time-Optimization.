@@ -1,4 +1,4 @@
-# Food Delivery Time Prediction
+# Delivery Time Prediction
 
 ## Problem Statement
 
